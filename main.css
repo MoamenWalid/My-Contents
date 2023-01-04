@@ -1,0 +1,39 @@
+body {
+  font-family: 'Cairo', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input[type="text"] {
+  border: none;
+  width: 91%;
+  outline: none;
+  padding: 10px 10px;
+  border-bottom: 1px solid #77777759;
+  margin-bottom: 15px;
+  color: #2196f3;
+  font-size: 18px;
+}
+
+ul {
+  list-style: none;
+  border: 1px solid #03a9f469;
+  width: 90%;
+  padding: 15px;
+}
+
+li.letter {
+  color: #111;
+  font-size: 25px;
+  padding: 7px 10px;
+  background: #eee;
+  margin-bottom: 7px;
+}
+
+li.name {
+  padding: 10px 26px;
+  color: #2196f3;
+  width: fit-content;
+}
